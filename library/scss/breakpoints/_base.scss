@@ -1,0 +1,23 @@
+/******************************************************************
+Site Name: Caswell
+Author: Matthew Stumphy
+
+Stylesheet: Base Mobile Stylesheet
+
+
+******************************************************************/
+body {
+	#primary {
+		width:auto;
+		margin-right:0;
+		margin-left:0;
+		float:none;
+	}
+	#secondary {
+		display:none;
+	}
+}
+form.woocommerce-checkout {
+	background:rgba(#fc0, .1);
+	border:3px solid #fc0;
+}
